@@ -1,1 +1,0 @@
-{"name":"mail-header-extractor-v4","private":true,"version":"4.0.1","scripts":{"build":"npm --prefix frontend install && npm --prefix frontend run build"}}
